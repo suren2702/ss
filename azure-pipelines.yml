@@ -34,4 +34,4 @@ steps:
   displayName: Test
   inputs:
     targetType: 'inline'
-    script: java -cp target/helloworld-1.1.jar com.coveros.demo.helloworld.HelloWorld
+    script: java -cp target/demofile.jar com.coveros.demo.helloworld.HelloWorld
